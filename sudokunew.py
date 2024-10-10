@@ -56,4 +56,3 @@ if (Suduko(grid, 0, 0)):
     puzzle(grid)
 else:
     print("Solution does not exist:")
-    
